@@ -3,4 +3,4 @@
 # it is just a simple web work for course testing   SIMPLE AND CRUDE
 #some pics need to be replaced
 #enter your own DB route and password
-#static resource need to be rewrited
+#static resource need to be replaced
